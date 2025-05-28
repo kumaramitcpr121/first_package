@@ -1,6 +1,6 @@
-name: calculatoraitdev
+name: calculator_amit
 description: A simple package that adds 1 to any integer.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/kumaramitcpr121/first_package
 repository: https://github.com/kumaramitcpr121/first_package
 issue_tracker: https://github.com/kumaramitcpr121/first_package/issues
